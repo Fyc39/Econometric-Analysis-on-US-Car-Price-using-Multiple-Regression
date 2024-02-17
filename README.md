@@ -8,5 +8,5 @@ Approach:
 4. Model Evaluation: Evaluated the performance of the regression models using appropriate metrics and techniques.
 
 Technologies Used:
-R Programming Language
-R Studio (Integrated Development Environment)
+1. R Programming Language
+2. R Studio (Integrated Development Environment)
