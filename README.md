@@ -1,2 +1,2 @@
-# Econometric-Analysis-on-US-Car-Price-using-Multiple-Regression
-Conducted an in-depth econometric analysis to explore the factors influencing the prices of cars in the US market.
+# Econometric-Analysis-on-US-Car-Price
+U.S. car auction prices are intricately shaped by a multifaceted interplay of factors encompassing market dynamics, consumer preferences, vehicle conditions, and the efficacy of the auction process. A comprehensive understanding of these factors is imperative for both buyers and sellers navigating the dynamic and ever-evolving landscape of car auctions in the United States. Therefore, in this project, we have aimed to implement a multi-linear regression model to observe the factors, such as mileage, model, year, and region versus the price of a car. 
